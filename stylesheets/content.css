@@ -3,6 +3,7 @@
     top: 0.87%;
     position: absolute;
     display: inline-block;
+    animation: rotate_1 30s linear infinite;
     }
     .dice2 {
     left: 18.87%;
@@ -21,6 +22,7 @@
     top: 0.97%;
     position: absolute;
     display: inline-block;
+    animation: rotate_2 30s linear infinite;
     }
     .dice5 {
     left: 43.70%;
@@ -33,6 +35,7 @@
     top: 0.87%;
     position: absolute;
     display: inline-block;
+    animation: rotate_3 30s linear infinite;
     }
     .dice7 {
     left: 61.10%;
@@ -45,6 +48,7 @@
     top: 0.87%;
     position: absolute;
     display: inline-block;
+    animation: rotate_4 30s linear infinite;
     }
     .country1 {
     left: 73.90%;
@@ -129,6 +133,7 @@
     top: 3.69%;
     position: absolute;
     display: inline-block;
+    animation: rotate_1 30s linear infinite;
     }
     .dice11 {
     left: 45%;
@@ -147,6 +152,7 @@
     top: 4.32%;
     position: absolute;
     display: inline-block;
+    animation: rotate_2 30s linear infinite;
     }
     .dice14 {
     left: 77.28%;
@@ -165,6 +171,7 @@
     top: 10.44%;
     position: absolute;
     display: inline-block;
+    animation: rotate_3 30s linear infinite;
     }
     .dice17 {
     left: 51.10%;
@@ -183,6 +190,7 @@
     top: 14.25%;
     position: absolute;
     display: inline-block;
+    animation: rotate_4 30s linear infinite;
     }
     .dice21 {
     left: 27.50%;
@@ -201,6 +209,7 @@
     top: 17.87%;
     position: absolute;
     display: inline-block;
+    animation: rotate_1 30s linear infinite;
     }
     .dice24 {
     left: 32.31%;
@@ -219,6 +228,7 @@
     top: 17.91%;
     position: absolute;
     display: inline-block;
+    animation: rotate_2 30s linear infinite;
     }
     .dice27 {
     left: 75.80%;
@@ -237,6 +247,7 @@
     top: 23.70%;
     position: absolute;
     display: inline-block;
+    animation: rotate_3 30s linear infinite;
     }
     .dice30 {
     left: 26.35%;
@@ -261,6 +272,7 @@
     top: 21.79%;
     position: absolute;
     display: inline-block;
+    animation: rotate_4 30s linear infinite;
     }
     .dice34 {
     left: 76.88%;
@@ -279,6 +291,7 @@
     top: 26.70%;
     position: absolute;
     display: inline-block;
+    animation: rotate_1 30s linear infinite;
     }
     .dice37 {
     left: 39.30%;
@@ -297,6 +310,7 @@
     top: 27.40%;
     position: absolute;
     display: inline-block;
+    animation: rotate_2 30s linear infinite;
     }
     .dice40 {
     left: 91.42%;
@@ -315,6 +329,7 @@
     top: 36.60%;
     position: absolute;
     display: inline-block;
+    animation: rotate_3 30s linear infinite;
     }
     .dice43 {
     left: 23.60%;
@@ -333,6 +348,7 @@
     top: 33.50%;
     position: absolute;
     display: inline-block;
+    animation: rotate_4 30s linear infinite;
     }
     .dice47 {
     left: 62.20%;
@@ -345,6 +361,7 @@
     top: 31.70%;
     position: absolute;
     display: inline-block;
+    animation: rotate_1 30s linear infinite;
     }
     .dice49 {
     left: 73.94%;
@@ -363,6 +380,7 @@
     top: 39.90%;
     position: absolute;
     display: inline-block;
+    animation: rotate_2 30s linear infinite;
     }
     .dice52 {
     left: 25.30%;
@@ -381,6 +399,7 @@
     top: 44.15%;
     position: absolute;
     display: inline-block;
+    animation: rotate_3 30s linear infinite;
     }
     .dice55 {
     left: 27.40%;
@@ -405,6 +424,7 @@
     top: 38.80%;
     position: absolute;
     display: inline-block;
+    animation: rotate_4 30s linear infinite;
     }
     .dice59 {
     left: 60%;
@@ -423,6 +443,7 @@
     top: 51.15%;
     position: absolute;
     display: inline-block;
+    animation: rotate_1 30s linear infinite;
     }
     .dice62 {
     left: 34.20%;
@@ -441,6 +462,7 @@
     top: 52.14%;
     position: absolute;
     display: inline-block;
+    animation: rotate_2 30s linear infinite;
     }
     .dice65 {
     left: 71.30%;
@@ -459,6 +481,7 @@
     top: 50.50%;
     position: absolute;
     display: inline-block;
+    animation: rotate_3 30s linear infinite;
     }
     .dice68 {
     left: 34.85%;
@@ -477,6 +500,7 @@
     top: 59.70%;
     position: absolute;
     display: inline-block;
+    animation: rotate_3 30s linear infinite;
     }
     .dice71 {
     left: 24%;
@@ -495,6 +519,7 @@
     top: 58.40%;
     position: absolute;
     display: inline-block;
+    animation: rotate_4 30s linear infinite;
     }
     .dice74 {
     left: 71.30%;
@@ -513,6 +538,7 @@
     top: 64.30%;
     position: absolute;
     display: inline-block;
+    animation: rotate_1 30s linear infinite;
     }
     .dice77 {
     left: 11%;
@@ -531,6 +557,7 @@
     top: 62.40%;
     position: absolute;
     display: inline-block;
+    animation: rotate_2 30s linear infinite;
     }
     .dice80 {
     left: 47.70%;
@@ -549,6 +576,7 @@
     top: 62.60%;
     position: absolute;
     display: inline-block;
+    animation: rotate_3 30s linear infinite;
     }
     .dice83 {
     left: 1.30%;
@@ -567,6 +595,7 @@
     top: 72%;
     position: absolute;
     display: inline-block;
+    animation: rotate_3 30s linear infinite;
     }
     .dice86 {
     left: 24%;
@@ -585,6 +614,7 @@
     top: 69%;
     position: absolute;
     display: inline-block;
+    animation: rotate_4 30s linear infinite;
     }
     .dice89 {
     left:84.9%;
@@ -603,6 +633,7 @@
     top: 74.60%;
     position: absolute;
     display: inline-block;
+    animation: rotate_1 30s linear infinite;
     }
     .dice92 {
     left:89.1%;
@@ -621,6 +652,7 @@
     top: 78.6%;
     position: absolute;
     display: inline-block;
+    animation: rotate_2 30s linear infinite;
     }
     .dice95 {
     left:31.9%;
@@ -639,6 +671,7 @@
     top: 77.2%;
     position: absolute;
     display: inline-block;
+    animation: rotate_3 30s linear infinite;
     }
     .dice98 {
     left:61.9%;
@@ -657,6 +690,7 @@
     top:79.6%;
     position: absolute;
     display: inline-block;
+    animation: rotate_4 30s linear infinite;
     }
     .dice101 {
     left:44%;
@@ -675,6 +709,7 @@
     top:86.5%;
     position: absolute;
     display: inline-block;
+    animation: rotate_1 30s linear infinite;
     }
     .dice104 {
     left:24.8%;
@@ -693,6 +728,7 @@
     top:88.4%;
     position: absolute;
     display: inline-block;
+    animation: rotate_2 30s linear infinite;
     }
     .dice107 {
     left:46.55%;
@@ -711,6 +747,7 @@
     top:87.2%;
     position: absolute;
     display: inline-block;
+    animation: rotate_2 30s linear infinite;
     }
     .dice110 {
     left:71.7%;
@@ -729,6 +766,7 @@
     top:93.40%;
     position: absolute;
     display: inline-block;
+    animation: rotate_3 30s linear infinite;
     }
     .dice113 {
     left:46.6%;
@@ -747,6 +785,7 @@
     top:96.45%;
     position: absolute;
     display: inline-block;
+    animation: rotate_4 30s linear infinite;
     }
     .dice116 {
     left:46.8%;
@@ -765,25 +804,11 @@
     top:89.7%;
     position: absolute;
     display: inline-block;
+    animation: rotate_1 30s linear infinite;
     }
     .dice119 {
     left:89%;
     top:94.45%;
     position: absolute;
     display: inline-block;
-    }
-
-    .dice1 {
-
-
-      animation-name: changecolor1;
-      animation-iteration-count: infinite;
-      animation-direction: normal;
-      animation-play-state: running;
-      animation-delay: 1s;
-      transition-duration: 1s;
-      transition-timing-function: ease;
-    }
-    .dice1:hover {
-      background-color: #A7E985;
     }
