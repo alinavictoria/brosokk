@@ -517,11 +517,3 @@
     height: 136px;
   }
 }
-@media only screen  and (max-device-width: 375px)  {
-  /* iPhone SE */
-  .country1 {
-    width: 224px;
-    height: 225px;
-  }
-{display: none;}
-}
