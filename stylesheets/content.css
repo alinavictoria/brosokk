@@ -426,7 +426,7 @@
     top: 38.80%;
     position: absolute;
     display: inline-block;
-    animation: rotate_4 30s linear infinite;
+    /* animation: rotate_4 30s linear infinite; */
     }
     .dice59 {
     left: 60%;
@@ -445,7 +445,7 @@
     top: 51.15%;
     position: absolute;
     display: inline-block;
-    animation: rotate_1 30s linear infinite;
+    /* animation: rotate_1 30s linear infinite; */
     }
     .dice62 {
     left: 34.20%;
