@@ -1,0 +1,789 @@
+    .dice1 {
+    left: 1.20%;
+    top: 0.87%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice2 {
+    left: 18.87%;
+    top: 0.87%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice3 {
+    left: 31.97%;
+    top: 0.97%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice4 {
+    left: 37.87%;
+    top: 0.97%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice5 {
+    left: 43.70%;
+    top: 0.87%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice6 {
+    left: 54.23%;
+    top: 0.87%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice7 {
+    left: 61.10%;
+    top: 0.87%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice8 {
+    left: 67.56%;
+    top: 0.87%;
+    position: absolute;
+    display: inline-block;
+    }
+    .country1 {
+    left: 73.90%;
+    top: 0.18%;
+    position: absolute;
+    display: inline-block;
+    }
+    .country2 {
+    left: 1.42%;
+    top: 1.42%;
+    position: absolute;
+    display: inline-block;
+    }
+    .country3 {
+    left: 57.70%;
+    top: 3.28%;
+    position: absolute;
+    display: inline-block;
+    }
+    .country4 {
+    left: 38.95%;
+    top: 15.70%;
+    position: absolute;
+    display: inline-block;
+    }
+    .country5 {
+    left: 0.12%;
+    top: 23.77%;
+    position: absolute;
+    display: inline-block;
+    }
+    .country6 {
+    left: 44.75%;
+    top: 24.90%;
+    position: absolute;
+    display: inline-block;
+    }
+    .country7 {
+    left: 84.1%;
+    top: 35.90%;
+    position: absolute;
+    display: inline-block;
+    }
+    .country8 {
+    left: 11.2%;
+    top: 48.32%;
+    position: absolute;
+    display: inline-block;
+    }
+    .country9 {
+    left: 43.70%;
+    top: 60.59%;
+    position: absolute;
+    display: inline-block;
+    }
+    .country10 {
+    left: 26.6%;
+    top: 80.20%;
+    position: absolute;
+    display: inline-block;
+    }
+    .country11 {
+    left: 1.62%;
+    top: 82.30%;
+    position: absolute;
+    display: inline-block;
+    }
+    .country12 {
+    left: 86.50%;
+    top: 86.10%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice9 {
+    left: 1.20%;
+    top: 10.25%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice10 {
+    left: 31.38%;
+    top: 3.69%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice11 {
+    left: 45%;
+    top: 6.50%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice12 {
+    left: 54%;
+    top: 4.60%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice13 {
+    left: 61%;
+    top: 4.32%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice14 {
+    left: 77.28%;
+    top: 8%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice15 {
+    left: 31.90%;
+    top: 10.59%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice16 {
+    left: 36.78%;
+    top: 10.44%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice17 {
+    left: 51.10%;
+    top: 9.50%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice19 {
+    left: 66.10%;
+    top: 11.59%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice20 {
+    left: 78%;
+    top: 14.25%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice21 {
+    left: 27.50%;
+    top: 13.20%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice22 {
+    left: 1.17%;
+    top: 18.52%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice23 {
+    left: 21.20%;
+    top: 17.87%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice24 {
+    left: 32.31%;
+    top: 17.87%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice25 {
+    left: 53.77%;
+    top: 17.37%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice26 {
+    left: 62.2%;
+    top: 17.91%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice27 {
+    left: 75.80%;
+    top: 17.91%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice28 {
+    left: 82%;
+    top: 17.91%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice29 {
+    left: 19.89%;
+    top: 23.70%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice30 {
+    left: 26.35%;
+    top: 23.70%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice31 {
+    left: 32.40%;
+    top: 22.20%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice32 {
+    left: 40.68%;
+    top: 21.79%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice33 {
+    left: 53.79%;
+    top: 21.79%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice34 {
+    left: 76.88%;
+    top: 21.49%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice35 {
+    left: 75.70%;
+    top: 24%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice36 {
+    left: 24.70%;
+    top: 26.70%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice37 {
+    left: 39.30%;
+    top: 29.30%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice38 {
+    left: 62.30%;
+    top: 25.96%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice39 {
+    left: 76.58%;
+    top: 27.40%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice40 {
+    left: 91.42%;
+    top: 27.35%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice41 {
+    left: 1.20%;
+    top: 36.15%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice42 {
+    left: 17.10%;
+    top: 36.60%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice43 {
+    left: 23.60%;
+    top: 34.60%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice45 {
+    left: 32.10%;
+    top: 34.15%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice46 {
+    left: 46.50%;
+    top: 33.50%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice47 {
+    left: 62.20%;
+    top: 33.25%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice48 {
+    left: 91.30%;
+    top: 31.70%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice49 {
+    left: 73.94%;
+    top: 35.25%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice50 {
+    left: 82.05%;
+    top: 34.95%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice51 {
+    left: 16.50%;
+    top: 39.90%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice52 {
+    left: 25.30%;
+    top: 38.90%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice53 {
+    left: 1.20%;
+    top: 44.30%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice54 {
+    left: 14.10%;
+    top: 44.15%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice55 {
+    left: 27.40%;
+    top: 42.25%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice56 {
+    left: 41.60%;
+    top: 42.19%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice57 {
+    left: 63.10%;
+    top: 39.70%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice58 {
+    left: 74.65%;
+    top: 38.80%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice59 {
+    left: 60%;
+    top: 46.10%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice60 {
+    left: 71.8%;
+    top: 45.50%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice61 {
+    left: 1.15%;
+    top: 51.15%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice62 {
+    left: 34.20%;
+    top: 49.60%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice63 {
+    left: 41%;
+    top: 51.90%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice64 {
+    left: 53.60%;
+    top: 52.14%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice65 {
+    left: 71.30%;
+    top: 52.90%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice66 {
+    left: 79%;
+    top: 52.70%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice67 {
+    left: 87.15%;
+    top: 50.50%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice68 {
+    left: 34.85%;
+    top: 53.37%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice69 {
+    left: 1.2%;
+    top: 56.90%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice70 {
+    left: 15.2%;
+    top: 59.70%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice71 {
+    left: 24%;
+    top: 56.30%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice72 {
+    left: 36.50%;
+    top: 58.40%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice73 {
+    left: 45.50%;
+    top: 58.40%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice74 {
+    left: 71.30%;
+    top: 57%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice75 {
+    left: 82%;
+    top: 57%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice76 {
+    left: 1.2%;
+    top: 64.30%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice77 {
+    left: 11%;
+    top: 64.75%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice78 {
+    left: 24%;
+    top: 62.85%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice79 {
+    left: 35%;
+    top: 62.40%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice80 {
+    left: 47.70%;
+    top: 61.75%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice81 {
+    left: 58.80%;
+    top: 61.45%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice82 {
+    left: 71.30%;
+    top: 62.60%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice83 {
+    left: 1.30%;
+    top: 69.2%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice84 {
+    left: 1.20%;
+    top: 74.10%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice85 {
+    left: 11.70%;
+    top: 72%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice86 {
+    left: 24%;
+    top: 68.6%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice87 {
+    left:39.45%;
+    top: 68.5%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice88 {
+    left:49.2%;
+    top: 69%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice89 {
+    left:84.9%;
+    top: 66.30%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice90 {
+    left:44%;
+    top: 73.50%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice91 {
+    left:80%;
+    top: 74.60%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice92 {
+    left:89.1%;
+    top: 74.1%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice93 {
+    left:1.2%;
+    top: 79.9%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice94 {
+    left:14%;
+    top: 78.6%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice95 {
+    left:31.9%;
+    top: 76.96%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice96 {
+    left:44.5%;
+    top: 78.55%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice97 {
+    left:51.2%;
+    top: 77.2%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice98 {
+    left:61.9%;
+    top:77.7%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice99 {
+    left:80%;
+    top:80.9%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice100 {
+    left:87.2%;
+    top:79.6%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice101 {
+    left:44%;
+    top:82.8%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice102 {
+    left:54.1%;
+    top:83.3%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice103 {
+    left:2%;
+    top:86.5%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice104 {
+    left:24.8%;
+    top:88.2%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice105 {
+    left:1.2%;
+    top:89.5%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice106 {
+    left:32.6%;
+    top:88.4%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice107 {
+    left:46.55%;
+    top:88.1%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice108 {
+    left:54.2%;
+    top:87%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice109 {
+    left:63.3%;
+    top:87.2%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice110 {
+    left:71.7%;
+    top:87%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice111 {
+    left:79.2%;
+    top:85.65%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice112 {
+    left:1.2%;
+    top:93.40%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice113 {
+    left:46.6%;
+    top:92.3%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice114 {
+    left:33.8%;
+    top:95.7%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice115 {
+    left:41.65%;
+    top:96.45%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice116 {
+    left:46.8%;
+    top:96.32%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice117 {
+    left:54.1%;
+    top:91.7%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice118 {
+    left:69.6%;
+    top:89.7%;
+    position: absolute;
+    display: inline-block;
+    }
+    .dice119 {
+    left:89%;
+    top:94.45%;
+    position: absolute;
+    display: inline-block;
+    }
+
+    .dice1 {
+
+
+      animation-name: changecolor1;
+      animation-iteration-count: infinite;
+      animation-direction: normal;
+      animation-play-state: running;
+      animation-delay: 1s;
+      transition-duration: 1s;
+      transition-timing-function: ease;
+    }
+    .dice1:hover {
+      background-color: #A7E985;
+    }
