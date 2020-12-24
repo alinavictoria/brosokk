@@ -1,6 +1,6 @@
  @media only screen and (min-width: 1440px) and (max-width: 1680px) {
    /* MacBook Pro 2020 */
-  .country1 {
+  /* .country1 {
     width: 20vw;
     height: 20vw;
   }
@@ -516,26 +516,44 @@
     width: 136px;
     height: 136px;
   }
-}
+} */
 
 @media only screen and (min-width: 768px) and (max-width: 1024px) {
    /* iPad Portrait */
-  .country1 {
-     width: 20vw;
-    height: 30vw;
+  /* .country1 {
+    left: 73.90%;
+      top: 0.18%;
+      position: absolute;
+      display: inline-block;
+      transform: scale(0.8);
+
   }
+  .dice93 {
+    left: 89.2%;
+    top: 212.9%;
+    position: absolute;
+    display: inline-block;
+    transform: scale(2);
 }
+} */
 @media only screen and (min-width: 1680px) and (max-width: 1920px) {
   /* MacBook Pro 2020 15"*/
-  .country1 {
+  /* .country1 {
      width: 20vw;
     height: 30vw;
   }
-}
-/* @media only screen  and (max-device-width: 375px)  {
+} */
+@media only screen  and (max-device-width: 375px)  {
   /* iPhone SE */
-  /* .dice1, .dice2, .dice5, .dice6, .dice7, .dice9, .dice10, .country2, .country4, .country5, .country8, .country10, .dice3, .dice4, .dice21, .dice22, .dice23, .dice24, .dice29, .dice30, .dice31, .dice32, .dice36, .dice37, .dice41 {display: none;}
-  .dice42, .dice43, .dice45, .dice51, .dice52, .dice53, .dice54, .dice55,.dice .dice61, .dice62, .dice63, .dice69, .dice70, .dice71, .dice72, .dice73, .dice76, .dice77, .dice78, .dice83 {display: none;}
+   /* .dice1, .dice2, .dice5, .dice6, .dice7, .dice9, .dice10, .country2, .country4, .country5, .country8, .country10, .dice3, .dice4, .dice21, .dice22, .dice23, .dice24, .dice29, .dice30, .dice31, .dice32, .dice36, .dice37, .dice41 {display: none;}
+  .dice42, .dice43, .dice45, .dice51, .dice52, .dice53, .dice54, .dice55, .dice61, .dice62, .dice63, .dice69, .dice70, .dice71, .dice72, .dice73, .dice76, .dice77, .dice78, .dice83 {display: none;}
   .dice84, .dice85, .dice86, .dice88, .dice90, .dice93, .dice94, .dice95, .dice101, .dice103, .dice104, .dice105, .dice106, .dice107, .dice13, .dice15, .dice16 {display: none;}
   .country1 {transform:scale 0.1};
-}  */
+  .dice19 {
+    left: 96%;
+    top: 158.45%;
+    position: absolute;
+    display: inline-block;
+    transform: scale(2);
+    }
+  } */
